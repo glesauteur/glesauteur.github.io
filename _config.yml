@@ -1,0 +1,22 @@
+# Site settings
+title: Gabrielle Le Sauteur
+email: gabrielle.le.sauteur@gmail.com
+url: https://glesauteur.github.io
+description: "Gabrielle Le Sauteur's Personal Website"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Gabrielle Le Sauteur
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://ca.linkedin.com/in/glesauteur
+
+# Build settings
+markdown: kramdown
+permalink: pretty

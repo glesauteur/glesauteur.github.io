@@ -1,2 +1,0 @@
-Gabrielle Le Sauteur
-=========================
